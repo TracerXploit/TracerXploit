@@ -42,5 +42,5 @@
 ### ⚡ Fun fact 
 - 🐱‍💻 My GitHub codes = 20% 🙋‍♂️ Me + 40% 💡 StackOverflow + 5% 🔍 Google + 15% 🤖 ChatGPT + 20%
 
-<!--Welcome Note-->
-<p>I'm a Python developer and cybersecurity enthusiast. I love building projects with Python and exploring the world of cybersecurity. Welcome to my GitHub profile!</p>
+ <em> 😊<b>  I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em>
+
