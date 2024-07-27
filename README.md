@@ -4,7 +4,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=10000000&color=642EF7&width=435&lines=I'm+Mihir+Sathvara!" alt="Typing SVG" /></a>
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Future%20Cyber%20Security%20Professional;Learning%20Backend%20Development;2%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=22" align="center" /></a>
 </p>
