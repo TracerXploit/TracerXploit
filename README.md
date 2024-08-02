@@ -36,7 +36,7 @@
 
 <!--💫 About Me-->
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- CyberSecurity & Forensics 🔐
+- CyberSecurity & Penetration testing 🕵️‍♂️
 - Backend Development 🛠️
 - Cloud Computing ☁️
   
