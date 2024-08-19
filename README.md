@@ -56,8 +56,9 @@
 <summary><h2 align='center'>🏆Competitive Coding Profile</h2></summary>
     
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mihirsathvara)
-<script src="https://tryhackme.com/badge/3340466"></script>
+
 </details>
+<script src="https://tryhackme.com/badge/3340466"></script>
 
 
  <em> 😊<b>  I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em>
