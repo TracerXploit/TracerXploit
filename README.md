@@ -61,7 +61,7 @@
 </details>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/TracerXploit.png" alt="TryHackMe">
-<script src="https://tryhackme.com/badge/3340466"></script>
+
 
  <em> 😊<b>  I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em>
 
