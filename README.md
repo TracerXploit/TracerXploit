@@ -1,7 +1,8 @@
 <!--💬TYPINGSVG -->
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=10000000&color=C8F72C&width=435&lines=%E0%AA%95%E0%AB%87%E0%AA%AE+%E0%AA%9B%E0%AB%8B+%F0%9F%99%8F%2C++%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+Hello+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=10000000&color=642EF7&width=435&lines=I'm+Mihir+Sathvara!" alt="Typing SVG" align="center /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=10000000&color=642EF7&width=435&lines= 
+   I'm+Mihir+Sathvara!" alt="Typing SVG"/></a>
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
 <p align="center">
